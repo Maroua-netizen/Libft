@@ -1,4 +1,3 @@
-This project is the very first project at 42. 
-I recoded here a few functions of the C standard library as well as some other utility functions that I will use during my whole cursus.
+# Libft
 
-This project passed the evaluation with 100%.
+Libft is a custom implementation of standard C library functions along with additional utility functions. This project is part of the 42 curriculum and serves as a foundational exercise in understanding and implementing core C functionalities.
